@@ -1,7 +1,8 @@
 # CS-Final-Project-Morse-Translator
 
-# Goals for this project:
+# This application was developed for our CS Final Project.
 
-#   1. Input text, output visual Morse Code Translation
-#   2. Input text, output audio Morse Code Translation
-#   3. "Flashcard" or "Test" feature that plays audio and has a text box to input what the message was.
+# Application Features:
+#   1. Messages can be inputted in English and will be visually displayed in Morse Code
+#   2. Translation can also be played out loud in dots and dashes
+#   2. Messages can be inputted in Morse Code and will be translated to English
