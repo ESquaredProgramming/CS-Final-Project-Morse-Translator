@@ -3,7 +3,7 @@
 # This application was developed for our CS Final Project.
 
 # Required Packages: playsound
-# To download this, run pip install playsound
+# To download this, run: pip install playsound
 
 # Application Features:
 #   1. Messages can be inputted in English and will be visually displayed in Morse Code
